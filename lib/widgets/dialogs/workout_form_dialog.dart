@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:isar/isar.dart';
 import 'package:provider/provider.dart';
 import 'package:workoutsss/utils/providers/workout_provider.dart';
 import 'package:workoutsss/utils/schemas/workout/workout_schema.dart';
